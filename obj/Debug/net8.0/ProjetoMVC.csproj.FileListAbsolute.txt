@@ -134,3 +134,4 @@ C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetoMVC\bin\Debug\net8.0\runtim
 C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetoMVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetoMVC\obj\Debug\net8.0\ProjetoMVC.csproj.AssemblyReference.cache
 C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetoMVC\obj\Debug\net8.0\ProjetoMVC.csproj.CopyComplete
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetoMVC\obj\Debug\net8.0\ProjetoMVC.sourcelink.json
