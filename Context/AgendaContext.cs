@@ -14,6 +14,6 @@ namespace ProjetoMVC.Context
 
         }
 
-        public DbSet<Contato> contatos {get; set;}
+        public DbSet<Contato> Contatos {get; set;}
     }
 }
